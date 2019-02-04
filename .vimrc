@@ -15,6 +15,9 @@ iabbrev пмна подмножества
 
 iabbrev тг тогава и само тогава, когато
 
+iabbrev ин индукция
+
+iabbrev inf ∞
 iabbrev fi Ø
 iabbrev e ∈
 iabbrev ne ∉
@@ -28,6 +31,7 @@ iabbrev \| ∨
 iabbrev v ∧
 iabbrev == ≡
 iabbrev -- ¬
+iabbrev xor ⊕
 
 iabbrev EE ∃
 iabbrev AA ∀
