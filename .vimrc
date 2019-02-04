@@ -7,6 +7,7 @@ iabbrev стт стойността
 iabbrev сти стойности
 
 iabbrev e ∈
+iabbrev ne ∉
 iabbrev c ⊂
 
 iabbrev \| ∨
@@ -14,5 +15,5 @@ iabbrev \& ∧
 iabbrev == ≡
 iabbrev -- ¬
 
-iabbrev E ∃
-iabbrev A ∀
+iabbrev EE ∃
+iabbrev AA ∀
