@@ -33,5 +33,6 @@ iabbrev == ≡
 iabbrev -- ¬
 iabbrev xor ⊕
 
+iabbrev => ⇒
 iabbrev EE ∃
 iabbrev AA ∀
