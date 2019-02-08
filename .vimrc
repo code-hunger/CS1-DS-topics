@@ -16,6 +16,10 @@ iabbrev пмна подмножества
 iabbrev тг тогава и само тогава, когато
 
 iabbrev ин индукция
+iabbrev фу функция
+iabbrev фи функции
+iabbrev фут функцията
+iabbrev фит функциите
 
 iabbrev inf ∞
 iabbrev fi Ø
@@ -26,6 +30,7 @@ iabbrev ce ⊆
 iabbrev cc ⊃
 iabbrev u ∪
 iabbrev & ∩
+iabbrev xx ×
 
 iabbrev \| ∨
 iabbrev v ∧
@@ -34,5 +39,10 @@ iabbrev -- ¬
 iabbrev xor ⊕
 
 iabbrev => ⇒
-iabbrev EE ∃
-iabbrev AA ∀
+inoremap EE ∃
+inoremap NEE ∄
+inoremap AA ∀
+" Cyrillic maps
+inoremap ЕЕ ∃ 
+inoremap НЕЕ ∄
+inoremap АА ∀
