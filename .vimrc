@@ -39,6 +39,7 @@ iabbrev -- ¬
 iabbrev xor ⊕
 
 iabbrev => ⇒
+iabbrev <= ⇐
 inoremap EE ∃
 inoremap NEE ∄
 inoremap AA ∀
