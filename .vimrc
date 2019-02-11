@@ -42,7 +42,9 @@ iabbrev => ⇒
 inoremap EE ∃
 inoremap NEE ∄
 inoremap AA ∀
+inoremap SS ∑
 " Cyrillic maps
 inoremap ЕЕ ∃ 
 inoremap НЕЕ ∄
 inoremap АА ∀
+inoremap СС ∑

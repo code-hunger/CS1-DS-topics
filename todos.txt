@@ -1,0 +1,27 @@
+05.Partial.and.linear.orderings.md:2:@TODO Intro text
+05.Partial.and.linear.orderings.md:29:                @TODO finish proof
+12.Subgraphs.Connectedness.Colouring.Planar.graphs.md:24:## Свързващи ребра/върхове, клики @TODO Липсва в конспекта
+12.Subgraphs.Connectedness.Colouring.Planar.graphs.md:30:- @TODO? X(G) = 2 ↔ G е двуделен
+12.Subgraphs.Connectedness.Colouring.Planar.graphs.md:32:- @TODO what more?
+12.Subgraphs.Connectedness.Colouring.Planar.graphs.md:39:    - @TODO euler's formula proof?
+12.Subgraphs.Connectedness.Colouring.Planar.graphs.md:41:- @TODO what more?
+06.Functions.Total,partial,inverse.Jections.(Un)Countable.sets.md:5:@TODO choose one:
+06.Functions.Total,partial,inverse.Jections.(Un)Countable.sets.md:29:    * Всяко подмножество на изброимо множество е изброимо. + @TODO Д-во.
+06.Functions.Total,partial,inverse.Jections.(Un)Countable.sets.md:32:    * (Теорема: @TODO ?) N × N е изброимо.
+04.Relations.Clojures.Equivalences.md:30:        - @TODO fix empty bullet. Missed coś?
+08.Counting.Principles.of.Dirichlet,addition,multiplication.and.inclusion.exclusion.md:8:@TODO
+08.Counting.Principles.of.Dirichlet,addition,multiplication.and.inclusion.exclusion.md:24:@TODO
+08.Counting.Principles.of.Dirichlet,addition,multiplication.and.inclusion.exclusion.md:40:@TODO
+08.Counting.Principles.of.Dirichlet,addition,multiplication.and.inclusion.exclusion.md:67:@TODO finish proof
+01.Logic.md:20:5. @TODO needs proper name
+01.Logic.md:56:4. Многоместни предикати @TODO
+14.Graph.traversal.Euler.and.Hamilton.md:30:        - @TODO finish proof
+14.Graph.traversal.Euler.and.Hamilton.md:49:## @TODO Дърво на обхождането 
+14.Graph.traversal.Euler.and.Hamilton.md:95:@TODO Бойлер и Хамилтон обхождане
+14.Graph.traversal.Euler.and.Hamilton.md:96:@TODO Теорема на Оре за Хамилтон граф
+07.The.Four.Mighty.Theorems.md:5:Лемма: N × N е изброимо. @TODO needs proff?
+07.The.Four.Mighty.Theorems.md:25:@TODO same as 06.4: 2^N не е изброимо.
+07.The.Four.Mighty.Theorems.md:51:@TODO Proof
+11.Finite.graphs.and.multigraphs.Directed.and.undirected.graphs.md:8:- Ориентиран **мултиграф** е @TODO.
+13.Trees.2.definitions.2.theorems.Root.trees.Spanning.trees.md:49:@TODO Минко го прави със силна индукция?
+13.Trees.2.definitions.2.theorems.Root.trees.Spanning.trees.md:77:@TODO wut?
